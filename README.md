@@ -27,3 +27,35 @@ Poți să:
 **De ce am făcut acest proiect**
 
 Acest proiect este un exercițiu simplu, făcut ca să înțeleg mai bine cum funcționează Git pe dinăuntru.
+
+**Ghid de utilizare**
+
+
+S-a accesat calea fișierului cu aplicație și s-a construit imaginea:
+
+<img width="1043" height="325" alt="image" src="https://github.com/user-attachments/assets/a372c797-fd67-4585-a8e1-8d8cb24b7a07" />
+
+S-a rulat containerul:
+
+<img width="1060" height="63" alt="image" src="https://github.com/user-attachments/assets/49d7d244-f970-46bb-8062-fee887ffacd7" />
+
+S-a efectuat comenzile init, și status:
+
+<img width="1050" height="241" alt="image" src="https://github.com/user-attachments/assets/f02ecfa0-7148-4c1c-b610-b35a056914bb" />
+
+S-a efectuat primul commit, și instrucțiunea log care prezintă istoricul commit-urilor cu data mesajul și numărul de fișiere:
+
+<img width="634" height="473" alt="image" src="https://github.com/user-attachments/assets/05b6be17-9946-470a-a947-07155a4369dc" />
+
+S-a efectuat comanda list care afișează lista de commit-uri:
+
+<img width="720" height="223" alt="image" src="https://github.com/user-attachments/assets/c39bbff4-71c8-4be3-9eeb-c253278c072f" />
+
+S-a efectuat comanda restore, care restaurează commit-ul indicat:
+
+<img width="1009" height="114" alt="image" src="https://github.com/user-attachments/assets/acfa8f71-2c47-4886-b5eb-85260dabaeae" />
+
+
+
+
+
